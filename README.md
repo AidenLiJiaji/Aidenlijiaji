@@ -7,7 +7,8 @@
 
 ## 👋 Hi, I'm Jiaji Li
 
-🎓 MInf at University of Edinburgh
+🎓 MInf (Master of Informatics) at the University of Edinburgh
+
 🤖 Interested in Soft Robotics & NLP
 
 🌱 Learning: Agda, Blender, Computational Geometry
